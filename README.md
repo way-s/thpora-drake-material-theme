@@ -2,7 +2,7 @@
 
 ## 介绍
 
-此`drake-material`主题主题是在[DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)的`drake-material`样式上修改的。
+此`drake-material.css`主题样式是在[DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)的`drake-material`样式的基础上修改的。
 
 ## 预览
 
